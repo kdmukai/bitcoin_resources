@@ -1,6 +1,45 @@
 # bitcoin_resources
-My list of recommended bitcoin education resources
+My starter pack for people new to the bewildering world of bitcoin.
 
+
+## Guided Introduction
+### "What is bitcoin?!"
+This is a HUGE topic. It's best to break it down into a few important sub-categories:
+
+* How do I buy/sell/hold bitcoin?
+* Why does bitcoin have value?
+* How does bitcoin work?
+
+These are listed in this order for a reason. Learn about setting up a wallet and then experience sending and receiving bitcoin first.
+
+Then learn about why people are so excited about it as a type of money that no government or corporation can control. This takes you down the rabbit hole of understanding what money is, more broadly.
+
+Finally learn a bit about the technical aspects of bitcoin. Why are everyone's transactions public? What is a private key? What are miners? _This is all the least important part for a noob!_ But too many people think they need to start with it. It's just too arcane and seemingly pointless unless you have the broader context provided above.
+
+
+#### How do I buy/sell/hold bitcoin?
+Hopefully you have a bitcoin-savvy friend you can reach out to. With that friend or on your own, walk through my [step-by-step beginner's guide](https://github.com/kdmukai/bitcoin_gift_guide) to setting up a wallet on your phone.
+
+Then look at the [Exchanges](#exchanges) section below. You almost definitely you want to start with one-off buys via a Cash App or small repeated buys via Swan.
+
+
+#### Why does bitcoin have value?
+* _Still looking for a killer starter article here._
+
+* When you're ready to invest a little more time into this endlessly fascinating area, start looking at the [Bitcoin books](#bitcoin-books) section below.
+
+
+#### How does bitcoin work?
+* [3Blue1Brown: But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&list=PLoF4_lt35vblXZz0YUK59X0RnV1V3OvkT&index=1): This is my favorite explainer so far. He does a great job of starting with a simple example of a group of friends who want to be able to pay each other and analyze what solutions might work. But as he broadens out his example the problems get thornier and thornier. Each step of the way he's layering in solutions that are built into bitcoin to address those exact problems. In this way you don't just get the "how" it works, you really appreciate "why" each element is there.
+
+    My only minor gripe is that he does get a little deeper into the math than I would have. But it isn't overwhelming. Stick with it. Rewatch it a few times. It's 1000% worth it.
+
+* _Other good intro videos...?_
+
+* [SciShow: Bitcoin: How Cryptocurrencies Work](https://www.youtube.com/watch?v=kubGCSj5y3k&list=PLoF4_lt35vblXZz0YUK59X0RnV1V3OvkT&index=2): This one is a distant second. The information is good and is more technical but it goes by WAY TOO FAST! Digest this in 20sec snippets. Pause and rewatch each section as needed. Go off and review other sources then come back to this one later to see if more of it is making sense.
+
+
+## Resource List
 ### Podcasts
 [What Bitcoin Did - Peter McCormack](https://www.whatbitcoindid.com/podcast):
 [McCormack](https://twitter.com/PeterMcCormack) is the best at playing the super-valuable "wait, I don't understand this" role for listeners who aren't technical and don't yet understand the complexities. All the major players in the bitcoin ecosystem end up on his show. Each new episode goes straight to the top of my queue.
@@ -16,7 +55,11 @@ Very technical but also focused on Austrian economics. Pick and choose the episo
 
 
 ### YouTube
-[Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ): The absolute best at providing the sweeping, broad vision for how bitcoin can change the world for the better. If you want the big picture, his talks are phenomenal. But as much as I love him, I don't think he's quite right for beginners; you need a little more foundation before you can understand his inspiring extrapolations. Note that his Q&A vids can be super-technical.
+[Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ): The absolute best at providing the sweeping, broad vision for how bitcoin can change the world for the better. If you want the big picture, his talks are phenomenal. I support him on Patreon.
+
+But as much as I love him, I don't think he's quite right for beginners; you need a little more foundation before you can understand his inspiring extrapolations. Note that his Q&A vids can be super-technical.
+
+[Swan Signal](https://www.youtube.com/c/SwanSignal): They post their interview segments here and run a 24/7 [BitcoinTV channel](https://www.youtube.com/watch?v=Hv3NTan7_Jc) that's basically a loop of their best content plus live cut-ins as they conduct new interviews.
 
 
 ### People worth following on twitter
@@ -63,19 +106,28 @@ If you'd like the contrarians' view
 
 To understand the possible significance of bitcoin you have to understand how many layers of money--and risk--sit between your US dollars and actual value. The primary focus here is to understand money first.
 
-_The chapter on bitcoin is actually the weakest of the book. A bit too dry and too complex for someone totally new to bitcoin. There are better "what is bitcoin" explainers out there. Read the bitcoin chapter, but lean more heavily on other resources to get a better understanding of the basics._
+<details>
+  <summary>caveats</summary>
+
+  _The chapter on bitcoin is actually the weakest of the book. A bit too dry and too complex for someone totally new to bitcoin. There are better "what is bitcoin" explainers out there. Read the bitcoin chapter, but lean more heavily on other resources to get a better understanding of the basics._
+</details>
 
 [The Bitcoin Standard (Saifedean Ammous)](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861): A deeper dive into the history of money and how humanity has naturally selected the "best" form of money over time based on a variety of characteristics. Think of this as the advanced level course after Bhatia's quick introduction above. Saif's clear articulation of which properties a "good" money must have culminates in a strong endorsement of bitcoin as the best form of money we've ever seen.
 
-_Saif indulges in some regrettable rants against fiat money--including a whole chapter where he claims that even art and food suffer in a fiat world--that I wish would have been edited out for being off-topic and more his opinion than anything I could see being rooted in fact or data. Unfortunately his overall goal is not to persuade the skeptical reader who is used to the fiat money world; he is more likely to ridicule and punish fiat defenders. I wish he would have taken a more welcoming approach but his anger and confrontational nature win out. And, as with Bhatia, I think his chapter on bitcoin towards the end is quite uninteresting and, to be honest, I can't recall if I even finished the book. He made the case in the 2/3rds of the book that analyze previous forms of money; the bitocin parts weren't telling me anything I didn't already know._
+<details>
+  <summary>caveats</summary>
 
+  _Saif indulges in some regrettable rants against fiat money--including a whole chapter where he claims that even art and food suffer in a fiat world--that I wish would have been edited out for being off-topic and more his opinion than anything I could see being rooted in fact or data. Unfortunately his overall goal is not to persuade the skeptical reader who is used to the fiat money world; he is more likely to ridicule and punish fiat defenders. I wish he would have taken a more welcoming approach but his anger and confrontational nature win out. And, as with Bhatia, I think his chapter on bitcoin towards the end is quite uninteresting and, to be honest, I can't recall if I even finished the book. He made the case in the 2/3rds of the book that analyze previous forms of money; the bitocin parts weren't telling me anything I didn't already know._
+</details>
 
 ### Exchanges
-Cash App: Makes the most sense for someone that just wants to dabble once or twice with buying bitcoin. Fees are not great but it's fine if you're just playing. You can transfer the btc you buy out of Cash App and into a wallet that you control. This is an important difference between other similar services that don't allow you to withdraw (Robinhood, PayPal). Cash App pays the bitcoin network/miners' fees on your withdrawals. You can also use Cash App as a simple wallet to recieve bitcoin, though in the long run there are much better options.
+[Cash App](https://cash.app/app/BCGVHBJ): Makes the most sense for someone that just wants to dabble once or twice with buying bitcoin. Fees are not great but it's fine if you're just playing. You can transfer the btc you buy out of Cash App and into a wallet that you control. This is an important difference between other similar services that don't allow you to withdraw (Robinhood, PayPal). Cash App pays the bitcoin network/miners' fees on your withdrawals. You can also use Cash App as a simple wallet to recieve bitcoin, though in the long run there are much better options.
 
-Swan Bitcoin: By far the best option for casual investors who want to automate as much as possible. Link your bank account and set an investment schedule (e.g. $10 every week) and it'll automatically do the buys for you. Fees depend on amount purchased per week, ranging from 1.19% to 2.29%. And because Swan is built by true bitcoiners, they encourage you to get your btc off of their platform. You can provide them with a receive address and set up autowithdrawals. They pay the bitcoin network fee on the withdrawal. You then have complete set-it-and-forget-it bitcoin buys that land safely in a wallet that you control!
+[Swan Bitcoin](https://www.swanbitcoin.com/banzai): By far the best option for casual investors who want to automate as much as possible. Link your bank account and set an investment schedule (e.g. $10 every week) and it'll automatically do the buys for you. Fees depend on amount purchased per week, ranging from 1.19% to 2.29%. And because Swan is built by true bitcoiners, they encourage you to get your btc off of their platform. You can provide them with a receive address and set up autowithdrawals. They pay the bitcoin network fee on the withdrawal. You then have complete set-it-and-forget-it bitcoin buys that land safely in a wallet that you control!
 
-Coinbase Pro: For more serious investors moving larger sums of money. At this level you need to really minimize fees and avoid the price spreads that the other services tack on to the price. Register a regular Coinbase account and then login at the pro.coinbase.com to access their Pro UI. Trading on Coinbase Pro drops your total fees to just a 0.35% flat fee (one $100 tx carries the same 35¢ fee as twenty $5 txs). Can do instant buys from your linked checking account with no additional fee up to $5k. Incoming wire transfers add a $10 fee. The UI is overwhelming and chaotic. All you need are market buys/sells. Withdrawals are charged to you but they do bulk transactions so total fee is much lower than you'd pay for moving some bitcoin yourself.
+[Coinbase Pro](https://www.coinbase.com/join/mukai_os): For more serious investors moving larger sums of money. At this level you need to really minimize fees and avoid the price spreads that the other services tack on to the price. Register a [regular Coinbase account](https://www.coinbase.com/join/mukai_os) and then login at [pro.coinbase.com](https://pro.coinbase.com) to access their Pro UI. Trading on Coinbase Pro drops your total fees to just a 0.35% flat fee (one $100 buy carries the same 35¢ fee as twenty $5 buys). Can do instant buys from your linked checking account with no additional fee up to $25k(!). Incoming wire transfers add a $10 fee (but once your bank account is linked, the instant buy feature makes wire transfers unnecessary). 
+
+The UI is overwhelming and chaotic. All you need are market buys/sells. Withdrawals are charged to you but they do bulk transactions so the total fee is much lower than you'd pay for moving some bitcoin yourself.
 
 Paxos / itBit: Lowest possible fees. If you set a "post only" limit order, you get a tiny 0.03% credit (i.e. they pay you a commission rather than you paying them a tx fee). Built to cater to larger institutions so ACH transfers aren't encouraged (limited to $500/wk and have a crappy 1% fee). Incoming wire transfers have no fee and no limits. You pay a share of the bitcoin network/miners' fee to withdraw your btc.
 
@@ -83,7 +135,7 @@ Paxos / itBit: Lowest possible fees. If you set a "post only" limit order, you g
 ### Bitcoin "wallets"
 "Wallets" is a misnomer; they're really more like storehouses for your bitcoin private keys (which you can sort of think of as the password for your bitcoin funds).
 
-BlueWallet: This is where I start all beginners. It's an open-source software wallet that lives on your phone or desktop app. Not the most secure option but is good enough and is better than leaving your coins on an exchange. see my [step-by-step beginner's guide](https://github.com/kdmukai/bitcoin_gift_guide/).
+[BlueWallet](https://bluewallet.io/): This is where I start all beginners. It's an open-source software wallet that lives on your phone or desktop app. Not the most secure option but is good enough and is better than leaving your coins on an exchange. see my [step-by-step beginner's guide](https://github.com/kdmukai/bitcoin_gift_guide).
 
 Hardware wallets:
 (this list is not exhaustive)
@@ -93,6 +145,20 @@ Hardware wallets:
 * KeepKey
 * Blockstream Jade
 * various DIY projects: Specter DIY, SeedSigner
+
+
+### Earning interest on bitcoin and USD stablecoins
+Lending platforms offer interest on bitcoin in the 4.5-6% range and up to 10% on USD stablecoins (a crypto token where 1 USDC, PAX, TUSD, etc is "guaranteed" to be worth $1 regardless of how prices are swinging in the broader crypto markets).
+
+[BlockFi](https://blockfi.com/?ref=55312987): Pays interest on btc and USD deposits which are then lent out primarily via overcollateralized loans, which significantly reduces the risk to the depositor. Some undercollateralized lending does happen (~20-50%) but only to a limited selection of institutional partners.
+
+This [podcast with CEO Zac Prince](https://www.theinvestorspodcast.com/bitcoin-fundamentals/btc013-bitcoin-lending-borrowing-w-blockfis-zac-prince-mark-yusko/) is a good starting point. The interviewer, Preston Pysh, asks really savvy, important questions about the risks.
+
+[Voyager](https://voyager.onelink.me/WNly/referral?af_sub5=KEIECB): Similar to BlockFi. Publicly traded in Canada.
+
+This [interview with CEO Steve Ehrlich](https://www.youtube.com/watch?v=6w_XVpRLI_A&t=3s) is good, but the interviewer doesn't know enough about the bitcoin/crypto ecosystem to ask any hard questions.
+
+[Abra](https://abra.com): 
 
 
 ### Bleeding Edge
