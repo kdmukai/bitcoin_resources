@@ -44,7 +44,7 @@ Finally learn a bit about the technical aspects of bitcoin. Why are everyone's t
 #### How do I buy/sell/hold bitcoin?
 Hopefully you have a bitcoin-savvy friend you can reach out to. With that friend or on your own, walk through my [step-by-step beginner's guide](https://github.com/kdmukai/bitcoin_gift_guide) to setting up a wallet on your phone.
 
-Then look at the [Exchanges](#exchanges) section below. You almost definitely you want to start with one-off buys via a Cash App or small repeated buys via Swan.
+Then look at the [Exchanges](#exchanges) section below. You almost definitely want to start with one-off buys via Cash App to learn and then quickly transition to setting up small repeated buys via Swan.
 
 
 #### Why does bitcoin have value?
@@ -54,7 +54,7 @@ Then look at the [Exchanges](#exchanges) section below. You almost definitely yo
 
 
 #### How does bitcoin work?
-* [3Blue1Brown: But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&list=PLoF4_lt35vblXZz0YUK59X0RnV1V3OvkT&index=1): This is my favorite explainer so far. He does a great job of starting with a simple example of a group of friends who want to be able to pay each other and analyze what solutions might work. But as he broadens out his example the problems get thornier and thornier. Each step of the way he's layering in solutions that are built into bitcoin to address those exact problems. In this way you don't just get the "how" it works, you really appreciate "why" each element is there.
+* [3Blue1Brown: But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&list=PLoF4_lt35vblXZz0YUK59X0RnV1V3OvkT&index=1): This is my favorite explainer so far. He does a great job of starting with a simple example of a group of friends who want to be able to pay each other in cash and analyze what solutions might work. But as he broadens out his example beyond just a tight circle of trusted friends, the problems get thornier and thornier. Each step of the way he's layering in solutions that are built into bitcoin to address those exact problems. In this way you don't just get the "how" it works, you really appreciate "why" each element is a crucial part of bitcoin.
 
     My only minor gripe is that he does get a little deeper into the math than I would have. But it isn't overwhelming. Stick with it. Rewatch it a few times. It's 1000% worth it.
 
@@ -127,7 +127,7 @@ If you'd like the contrarians' view
 
 
 ### Bitcoin books
-[Layered Money (Nik Bhatia)](https://www.amazon.com/Layered-Money-Dollars-Bitcoin-Currencies/dp/1736110527): A quick, efficient read that establishes a powerful "layers" metaphor for money that starts from an epoch of gold coin-based economy on up to the present day and beyond. This is currently my go-to book to refer to people who want to understand why bitcoin has any value.
+[Layered Money, by Nik Bhatia](https://www.amazon.com/Layered-Money-Dollars-Bitcoin-Currencies/dp/1736110527): A quick, efficient read that establishes a powerful "layers" metaphor for money that starts from an epoch of gold coin-based economy on up to the present day and beyond. This is currently my go-to book to refer to people who want to understand why bitcoin has any value.
 
 To understand the possible significance of bitcoin you have to understand how many layers of money--and risk--sit between your US dollars and actual value. The primary focus here is to understand money first.
 
@@ -137,13 +137,15 @@ To understand the possible significance of bitcoin you have to understand how ma
   _The chapter on bitcoin is actually the weakest of the book. A bit too dry and too complex for someone totally new to bitcoin. There are better "what is bitcoin" explainers out there. Read the bitcoin chapter, but lean more heavily on other resources to get a better understanding of the basics._
 </details>
 
-[The Bitcoin Standard (Saifedean Ammous)](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861): A deeper dive into the history of money and how humanity has naturally selected the "best" form of money over time based on a variety of characteristics. Think of this as the advanced level course after Bhatia's quick introduction above. Saif's clear articulation of which properties a "good" money must have culminates in a strong endorsement of bitcoin as the best form of money we've ever seen.
+[The Bitcoin Standard, by Saifedean Ammous](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861): A deeper dive into the history of money and how humanity has naturally selected the "best" form of money over time based on a variety of characteristics. Think of this as the advanced level course after Bhatia's quick introduction above. Saif's clear articulation of which properties a "good" money must have culminates in a strong endorsement of bitcoin as the best form of money we've ever seen.
 
 <details>
   <summary>caveats</summary>
 
   _Saif indulges in some regrettable rants against fiat money--including a whole chapter where he claims that even art and food suffer in a fiat world--that I wish would have been edited out for being off-topic and more his opinion than anything I could see being rooted in fact or data. Unfortunately his overall goal is not to persuade the skeptical reader who is used to the fiat money world; he is more likely to ridicule and punish fiat defenders. I wish he would have taken a more welcoming approach but his anger and confrontational nature win out. And, as with Bhatia, I think his chapter on bitcoin towards the end is quite uninteresting and, to be honest, I can't recall if I even finished the book. He made the case in the 2/3rds of the book that analyze previous forms of money; the bitocin parts weren't telling me anything I didn't already know._
 </details>
+
+[Digital Gold, by Nathaniel Popper](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent-ebook/dp/B01D8KFX9Q/): This is a fascinating, fun retelling of the early days of bitcoin with deep dives into all the crazy characters that helped make it happen. Save this book for when you're already deep down the rabbit hole. But once you are a die-hard bitcoiner, this is a must-read.
 
 
 ### Exchanges
@@ -190,7 +192,7 @@ Pomp's [interview with CEO Bill Barhydt](https://podcasts.apple.com/us/podcast/b
 
 
 ### Bitcoin "cashback" cards & incentive programs
-[Fold App](https://use.foldapp.com/r/9PH3CUKE): Buy gift cards for popular retailers and earn "sats back". A full credit card with much better bonuses (e.g. 5% sats back on Amazon purchases) slowly being rolled out to the waitlist.
+[Fold App](https://use.foldapp.com/r/9PH3CUKE): Buy gift cards for popular retailers and earn "sats back". A debit card with much better bonuses (e.g. 5% sats back on Amazon purchases) is slowly being rolled out to the waitlist.
 
 
 ### Bleeding Edge
