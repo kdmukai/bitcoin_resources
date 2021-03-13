@@ -1,4 +1,4 @@
-# bitcoin_resources
+# Bitcoin Resources
 My starter pack for people new to the bewildering world of bitcoin.
 
 
@@ -101,6 +101,7 @@ Bitcoin artsts:
 If you'd like the contrarians' view
 * [Peter Schiff](https://twitter.com/PeterSchiff)
 
+
 ### Bitcoin books
 [Layered Money (Nik Bhatia)](https://www.amazon.com/Layered-Money-Dollars-Bitcoin-Currencies/dp/1736110527): A quick, efficient read that establishes a powerful "layers" metaphor for money that starts from an epoch of gold coin-based economy on up to the present day and beyond. This is currently my go-to book to refer to people who want to understand why bitcoin has any value.
 
@@ -119,6 +120,7 @@ To understand the possible significance of bitcoin you have to understand how ma
 
   _Saif indulges in some regrettable rants against fiat money--including a whole chapter where he claims that even art and food suffer in a fiat world--that I wish would have been edited out for being off-topic and more his opinion than anything I could see being rooted in fact or data. Unfortunately his overall goal is not to persuade the skeptical reader who is used to the fiat money world; he is more likely to ridicule and punish fiat defenders. I wish he would have taken a more welcoming approach but his anger and confrontational nature win out. And, as with Bhatia, I think his chapter on bitcoin towards the end is quite uninteresting and, to be honest, I can't recall if I even finished the book. He made the case in the 2/3rds of the book that analyze previous forms of money; the bitocin parts weren't telling me anything I didn't already know._
 </details>
+
 
 ### Exchanges
 [Cash App](https://cash.app/app/BCGVHBJ): Makes the most sense for someone that just wants to dabble once or twice with buying bitcoin. Fees are not great but it's fine if you're just playing. You can transfer the btc you buy out of Cash App and into a wallet that you control. This is an important difference between other similar services that don't allow you to withdraw (Robinhood, PayPal). Cash App pays the bitcoin network/miners' fees on your withdrawals. You can also use Cash App as a simple wallet to recieve bitcoin, though in the long run there are much better options.
@@ -148,17 +150,23 @@ Hardware wallets:
 
 
 ### Earning interest on bitcoin and USD stablecoins
-Lending platforms offer interest on bitcoin in the 4.5-6% range and up to 10% on USD stablecoins (a crypto token where 1 USDC, PAX, TUSD, etc is "guaranteed" to be worth $1 regardless of how prices are swinging in the broader crypto markets).
+Lending platforms offer interest on bitcoin in the 4.5-6% range and up to 10% on USD stablecoins (a crypto token where 1 USDC, PAX, TUSD, etc is "guaranteed" to be worth $1 regardless of how prices are swinging in the broader crypto markets). You take on some greater risk ("not your keys, not your bitcoin") but if you dig into each platform's risk management approach you might decide that the modest risk is well worth the huge interest payouts.
 
-[BlockFi](https://blockfi.com/?ref=55312987): Pays interest on btc and USD deposits which are then lent out primarily via overcollateralized loans, which significantly reduces the risk to the depositor. Some undercollateralized lending does happen (~20-50%) but only to a limited selection of institutional partners.
+[BlockFi](https://blockfi.com/?ref=55312987): $15b under management as of March 2021. Pays interest on btc and USD deposits which are then lent out primarily via overcollateralized loans (to borrow $1000 USD you have to deposit at least $2000 worth of btc), which significantly reduces the risk to the lender. Some undercollateralized lending does happen (~20-50% of their loans) but only to a limited selection of institutional partners.
 
 This [podcast with CEO Zac Prince](https://www.theinvestorspodcast.com/bitcoin-fundamentals/btc013-bitcoin-lending-borrowing-w-blockfis-zac-prince-mark-yusko/) is a good starting point. The interviewer, Preston Pysh, asks really savvy, important questions about the risks.
 
-[Voyager](https://voyager.onelink.me/WNly/referral?af_sub5=KEIECB): Similar to BlockFi. Publicly traded in Canada.
+[Voyager](https://voyager.onelink.me/WNly/referral?af_sub5=KEIECB): $1.1b under management as of Feb 2021. Interest rates similar to BlockFi but no consumer lending; they only lend to major market players (Galaxy Digital, BitGo/Goldman Sachs, Jump Capital). A lot (most?) of their revenue comes from price spreads on their trading platform. Publicly traded in Canada (read: extra level of regulation and scrutiny. Good).
 
 This [interview with CEO Steve Ehrlich](https://www.youtube.com/watch?v=6w_XVpRLI_A&t=3s) is good, but the interviewer doesn't know enough about the bitcoin/crypto ecosystem to ask any hard questions.
 
-[Abra](https://abra.com): 
+[Abra](https://abra.com): Smaller player but like the others moving towards being a completely crypto-backed bank account. Deposit your USD, earn interest on it as a stablecoin, spend it as needed via debit card, convert as much as you like to bitcoin and then earn interest on that.
+
+Pomp's [interview with CEO Bill Barhydt](https://podcasts.apple.com/us/podcast/bill-barhydt-founder-ceo-abra-bitcoin-future-asset/id1434060078?i=1000457327798) is excellent.
+
+
+### Bitcoin "cashback" cards & incentive programs
+[Fold App](https://use.foldapp.com/r/9PH3CUKE): Buy gift cards for popular retailers and earn "sats back". A full credit card with much better bonuses (e.g. 5% sats back on Amazon purchases) slowly being rolled out to the waitlist.
 
 
 ### Bleeding Edge
