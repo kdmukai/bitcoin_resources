@@ -1,3 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Bitcoin Resources](#bitcoin-resources)
+  - [Guided Introduction](#guided-introduction)
+    - ["What is bitcoin?!"](#what-is-bitcoin)
+      - [How do I buy/sell/hold bitcoin?](#how-do-i-buysellhold-bitcoin)
+      - [Why does bitcoin have value?](#why-does-bitcoin-have-value)
+      - [How does bitcoin work?](#how-does-bitcoin-work)
+  - [Resource List](#resource-list)
+    - [Podcasts](#podcasts)
+    - [YouTube](#youtube)
+    - [People worth following on twitter](#people-worth-following-on-twitter)
+      - [Anti-bitcoiners](#anti-bitcoiners)
+    - [Bitcoin books](#bitcoin-books)
+    - [Exchanges](#exchanges)
+    - [Bitcoin "wallets"](#bitcoin-wallets)
+    - [Earning interest on bitcoin and USD stablecoins](#earning-interest-on-bitcoin-and-usd-stablecoins)
+    - [Bitcoin "cashback" cards & incentive programs](#bitcoin-cashback-cards--incentive-programs)
+    - [Bleeding Edge](#bleeding-edge)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Bitcoin Resources
 My starter pack for people new to the bewildering world of bitcoin.
 
