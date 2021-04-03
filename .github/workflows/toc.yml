@@ -7,4 +7,4 @@ jobs:
     steps:
       - uses: technote-space/toc-generator@v2
         with:
-          TARGET_PATHS: README.md
+          TARGET_PATHS: .
