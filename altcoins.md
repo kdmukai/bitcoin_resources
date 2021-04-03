@@ -7,11 +7,13 @@
     - [Where are the computing platforms going?](#where-are-the-computing-platforms-going)
       - [But first a present-day analog](#but-first-a-present-day-analog)
       - [And so commoditization goes for crypto, too](#and-so-commoditization-goes-for-crypto-too)
-      - [Profitable investment = problemmatic service](#profitable-investment--problemmatic-service)
+      - [Profitable investment = problematic service](#profitable-investment--problematic-service)
     - [Where are the currency/store of value cryptos going?](#where-are-the-currencystore-of-value-cryptos-going)
       - [There is no P/E ratio](#there-is-no-pe-ratio)
       - [So what about competing new digital currencies?](#so-what-about-competing-new-digital-currencies)
+  - [How to view altcoin valuations](#how-to-view-altcoin-valuations)
   - [Beware: Most altcoins are garbage](#beware-most-altcoins-are-garbage)
+  - [It's impossible to guess right](#its-impossible-to-guess-right)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
