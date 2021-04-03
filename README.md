@@ -19,6 +19,7 @@
     - [Earning interest on bitcoin and USD stablecoins](#earning-interest-on-bitcoin-and-usd-stablecoins)
     - [Bitcoin "cashback" cards & incentive programs](#bitcoin-cashback-cards--incentive-programs)
     - [Bleeding Edge](#bleeding-edge)
+  - [What about Ethereum and the other altcoins?](#what-about-ethereum-and-the-other-altcoins)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
