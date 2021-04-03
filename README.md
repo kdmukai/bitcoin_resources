@@ -74,6 +74,9 @@ This is a series within their unified podcast stream (their "We Study Billionair
 [Swan Signal](https://swansignalpodcast.com/):
 Part of the education and marketing outreach for Swan Bitcoin. They put out excellent education content and have some of the strongest, most trusted bitcoiners on staff. Downside: each ep is just the audio from a live Zoom call so is often plagued by the typical glitches and cross-talk that happens on a livestream. Probably better to watch the [video version on YouTube](https://www.youtube.com/c/SwanSignal).
 
+[The Pomp Podcast - Anthony Pompliano](https://anthonypompliano.com/podcast/):
+Pomp is a frequent CNBC guest and is insanely articulate. He understands bitcoin and can communicate with people who are deeply entrenched in the traditional financial system. He speaks their language.
+
 [Stephan Livera Podcast](https://stephanlivera.com/):
 Very technical but also focused on Austrian economics. Pick and choose the episodes that fit your interest/tech level.
 
@@ -83,7 +86,9 @@ Very technical but also focused on Austrian economics. Pick and choose the episo
 
 But as much as I love him, I don't think he's quite right for beginners; you need a little more foundation before you can understand his inspiring extrapolations. Note that his Q&A vids can be super-technical.
 
-[Swan Signal](https://www.youtube.com/c/SwanSignal): They post their interview segments here and run a 24/7 [BitcoinTV channel](https://www.youtube.com/watch?v=Hv3NTan7_Jc) that's basically a loop of their best content plus live cut-ins as they conduct new interviews.
+[Swan Signal](https://www.youtube.com/c/SwanSignal): They post their interview segments here and run a 24/7 [BitcoinTV channel](https://www.youtube.com/watch?v=Hv3NTan7_Jc) that's basically a loop of their best content plus live cut-ins as they conduct new interviews. Some of their livestreams aren't much more than Zoom hangouts but their [more focused interviews and discussions](https://www.youtube.com/watch?v=6NlvWollN9M) are phenomenal.
+
+[BlockWorks](https://www.youtube.com/c/BlockWorksGroup): I just recently started watching their streams and they've quickly become a favorite to watch during lunch breaks. They have great guests and solid discussions on the latest news.
 
 
 ### People worth following on twitter
@@ -176,11 +181,13 @@ Hardware wallets:
 
 
 ### Earning interest on bitcoin and USD stablecoins
-Lending platforms offer interest on bitcoin in the 4.5-6% range and up to 10% on USD stablecoins (a crypto token where 1 USDC, PAX, TUSD, etc is "guaranteed" to be worth $1 regardless of how prices are swinging in the broader crypto markets). You take on some greater risk ("not your keys, not your bitcoin") but if you dig into each platform's risk management approach you might decide that the modest risk is well worth the huge interest payouts.
+Lending platforms offer interest on bitcoin in the 4.5-6.25% range and up to 12.5% on USD stablecoins (a crypto token where 1 USDC, PAX, TUSD, etc is "guaranteed" to be worth $1 regardless of how prices are swinging in the broader crypto markets). You take on some greater risk ("not your keys, not your bitcoin") but if you dig into each platform's risk management approach you might decide that the modest risk is well worth the huge interest payouts.
 
-[BlockFi](https://blockfi.com/?ref=55312987): $15b under management as of March 2021. Pays interest on btc and USD deposits which are then lent out primarily via overcollateralized loans (to borrow $1000 USD you have to deposit at least $2000 worth of btc), which significantly reduces the risk to the lender. Some undercollateralized lending does happen (~20-50% of their loans) but only to a limited selection of institutional partners.
+[BlockFi](https://blockfi.com/?ref=55312987): $15b under management as of March 2021. Pays interest on btc and USD deposits which are then lent out primarily via overcollateralized loans (to borrow $1000 USD you have to deposit at least $2000 worth of btc), which significantly reduces the risk to the lender. Some undercollateralized lending does happen (~20-50% of their loans) but only to a limited selection of institutional partners. The best bitcoin interest rate maxes out at 1.0 btc (deposits above that earn a greatly reduced rate).
 
 This [podcast with CEO Zac Prince](https://www.theinvestorspodcast.com/bitcoin-fundamentals/btc013-bitcoin-lending-borrowing-w-blockfis-zac-prince-mark-yusko/) is a good starting point. The interviewer, Preston Pysh, asks really savvy, important questions about the risks.
+
+[Ledn](https://platform.ledn.io/join/f28658694234fd0a38458952642f59d5): Best rate is currently capped at 2.0 btc. As with every platform they offer overcollateralized loans against your deposited btc. Currently have the best USDC interest rates. They primarily (exclusively?) lend their assets to Genesis Capital. Lots of useful discussion [here](https://twitter.com/danheld/status/1334152341881311234?s=20).
 
 [Voyager](https://voyager.onelink.me/WNly/referral?af_sub5=KEIECB): $1.1b under management as of Feb 2021. Interest rates similar to BlockFi but no consumer lending; they only lend to major market players (Galaxy Digital, BitGo/Goldman Sachs, Jump Capital). A lot (most?) of their revenue comes from price spreads on their trading platform. Publicly traded in Canada (read: extra level of regulation and scrutiny. Good).
 
@@ -197,3 +204,6 @@ Pomp's [interview with CEO Bill Barhydt](https://podcasts.apple.com/us/podcast/b
 
 ### Bleeding Edge
 Strike from Jack Mallers: Looks like a simple Cash App clone but is deeply integrated into the bitcoin and Lightning Network under the hood. Like Cash App you link your bank account and can instantly send USD to anyone else with Strike. But you can also pay a Lightning invoice without ever converting your USD. You can also send USD to a bitcoin address (even your own--think of it as an instant buy from your bank account to your bitcoin wallet); Strike converts your USD to bitcoin automatically. But you do pay the bitcoin network/miners' fee for the transaction.
+
+## What about Ethereum and the other altcoins?
+see: [Discussion of altcoins](altcoins.md)
