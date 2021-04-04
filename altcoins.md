@@ -13,7 +13,8 @@
       - [So what about competing new digital currencies?](#so-what-about-competing-new-digital-currencies)
   - [How to view altcoin valuations](#how-to-view-altcoin-valuations)
   - [Beware: Most altcoins are garbage](#beware-most-altcoins-are-garbage)
-  - [It's impossible to guess right](#its-impossible-to-guess-right)
+  - [The best project doesn't always win](#the-best-project-doesnt-always-win)
+  - [It's your call](#its-your-call)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
