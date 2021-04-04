@@ -81,6 +81,30 @@ Altcoin price movements are dominated by bitcoin price swings. Celebrating a 5% 
 
 
 ## Beware: Most altcoins are garbage
+I think we will see a few computing platform/utility token winners eventually emerge but, as discussed above, I think they will settle into a flat commodity-level service.
+
+But the vast, VAST majority will never achieve any kind of actual usage or adoption. And that's assuming that the project is even making a good-faith effort at building their technology. From the outside--especially if you aren't technical--it's almost impossible to tell which projects are legit and which are just blowing smoke as a money grab.
+
+This is a dangerous space full of scam artists. Beware social media influencers who hype various projects--many of them are paid to shill for the project and the majority of the people on social media don't even understand the tech to begin with. They may be fast and impressive with the jargon and buzzwords but just saying, "it's the first truly byzantine fault tolerant platform!" doesn't mean they really know what that means or that they have the expertise to really vet the claims.
 
 
-## It's impossible to guess right
+## The best project doesn't always win
+But let's say that you do find some truly reliable, expert people who are all genuinely excited about a project. It has real tech innovations, the right team behind it, and really should be viewed as light years ahead of its competing platforms.
+
+And then Elon Musk tweets about one of the competitors.
+
+Oops, sorry, now the social media feeding frenzy puts all its energy there. Your gem project which really should be the winner gets ignored. The garbage project that doesn't deserve the hype gets the hype.
+
+Maybe in the long run the market corrects itself and the best projects inevitably push their way to the top.
+
+But at this early stage every project, regardless of its merits, relies on hype, publicity, buzz.
+
+Fine, so maybe just go with what's trendy? Egads. What a disaster. Bribed shillers and uninformed noobs jumping on a momentum train that might be a total scam? Stay away.
+
+
+## It's your call
+There IS a crapton of money to be made by speculating in altcoins. But it takes a combination of immense skill, immense luck, and maybe flat-out insider trading.
+
+Dive into these shark-infested, piranha-infested, leech-infested waters if you like. Just realize that all the odds are heavily stacked against you. You might be smarter than the average trader, but that won't help you when a secret insiders' group coordinates a dump on your otherwise perfectly played investment.
+
+I don't begrudge anyone who succeeds at speculating in this wild west. But I absolutely DO NOT recommend it.
