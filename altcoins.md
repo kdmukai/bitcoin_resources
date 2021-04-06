@@ -72,7 +72,7 @@ A competing digital currency may have certain advantages over bitcoin, newer and
 And let's not forget that bitcoin itself is still innovating (albeit at a very prudent, seemingly glacial pace).
 
 ## How to view altcoin valuations
-Crypto investors love to tout when an altcoin hits a new all-time high. But notice that they almost always denominate it against USD. The real metric is to look at the altcoin-to-bitcoin pairing (e.g. ETH/BTC). This is literally your opportunity cost for putting value in the altcoin instead of bitcoin.
+Crypto investors love to tout when an altcoin hits a new all-time high. But notice that they almost always denominate it against USD. The real metric is to look at the altcoin-to-bitcoin pairing (e.g. ETH/BTC instead of ETH/USD). This is literally your opportunity cost for putting value in the altcoin instead of bitcoin.
 
 Ethereum may have hit an all-time of $2100 but it's simultaneously trading at a bitcoin-denominated value of 0.035 btc. Ethereum's all-time high against bitcoin is somewhere around 0.124 btc. So today's "all-time high" is more a reflection of bitcoin's _growing_ USD value and Ethereum's _shrinking_ value against bitcoin.
 
