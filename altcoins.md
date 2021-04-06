@@ -28,7 +28,7 @@ Bitcoin and some other altcoins--Monero, Litecoin, Dogecoin, etc--are focusing o
 These are two enormously different spaces. Different value propositions. Different end games.
 
 ### Where are the computing platforms going?
-There are immense, fascinating possibilities with these computing platforms. "Smart contracts" can wipe out financial middlemen like escrow agents (if Party A satisfies conditions X,Y,Z transfer the value that Party B deposited to Party A, otherwise refund Party B). Tokenization of assets and ownership (why pay TicketMaster's fees to maintain their own proprietary network when concert tickets can just be issued on a public blockchain?).
+There are immense, fascinating possibilities with these computing platforms. "Smart contracts" can wipe out financial middlemen like escrow agents (if Party A satisfies conditions X,Y,Z transfer the value that Party B deposited to Party A, otherwise refund Party B). Tokenization of assets and ownership will become the norm (why pay TicketMaster's fees to maintain their own proprietary network when concert tickets can just be issued on a public blockchain?).
 
 As more and more use cases arise, these blockchain-based computing platforms will become more and more important and will absolutely displace tons of industries.
 
@@ -45,7 +45,7 @@ Ethereum is by far the most popular platform but tons of other projects have alr
 So, yes, these smart contract platforms _are the future_. But it doesn't make sense to me to place a bet on one as being the new future king. These kinds of computing services are a commodity. Period. There is no exclusivity where one platform can do something that the others can't. All the platforms will evolve and co-opt their competitors' best features.
 
 #### Profitable investment = problematic service
-The investment thesis itself seems flawed for another reason: cost. You pay for AWS services with USD. But imagine if you had to pay for them in $AMZN stock? The more powerful and popular AWS gets, the more valuable $AMZN stock will get. If you, in this theoretical example, had to pay in $AMZN stock, AWS services would then become unsustainably expensive. It's a kind of success death spiral.
+The investment thesis itself seems flawed for another reason: cost. You pay for AWS services with USD. But imagine if you had to pay for them in $AMZN stock? The more powerful and popular AWS gets, the more valuable $AMZN stock will get. If you, in this theoretical example, had to pay in $AMZN stock, AWS services would then become unsustainably expensive. There would be an upper limit to $AMZN's value that gets balanced against AWS' utility.
 
 This is Ethereum and all the other crypto computing platforms. You pay for computing services by spending (or "staking"--aka buying and then "locking up") the platform's currency. It costs $ETH to run Ethereum smart contracts.
 
@@ -74,7 +74,7 @@ And let's not forget that bitcoin itself is still innovating (albeit at a very p
 ## How to view altcoin valuations
 Crypto investors love to tout when an altcoin hits a new all-time high. But notice that they almost always denominate it against USD. The real metric is to look at the altcoin-to-bitcoin pairing (e.g. ETH/BTC). This is literally your opportunity cost for putting value in the altcoin instead of bitcoin.
 
-Ethereum may have hit an all-time of $2100 but it's simultaneously trading at a bitcoin-denominated value of 0.035 btc. Ethereum's all-time high against bitcoin is somewhere around 0.124 btc. So today's "all-time high" is more a reflection of bitcoin's _growing_ value and Ethereum's _shrinking_ value against bitcoin.
+Ethereum may have hit an all-time of $2100 but it's simultaneously trading at a bitcoin-denominated value of 0.035 btc. Ethereum's all-time high against bitcoin is somewhere around 0.124 btc. So today's "all-time high" is more a reflection of bitcoin's _growing_ USD value and Ethereum's _shrinking_ value against bitcoin.
 
 The denomination matters.
 
@@ -86,15 +86,15 @@ I think we will see a few computing platform/utility token winners eventually em
 
 But the vast, VAST majority will never achieve any kind of actual usage or adoption. And that's assuming that the project is even making a good-faith effort at building their technology. From the outside--especially if you aren't technical--it's almost impossible to tell which projects are legit and which are just blowing smoke as a money grab.
 
-This is a dangerous space full of scam artists. Beware social media influencers who hype various projects--many of them are paid to shill for the project and the majority of the people on social media don't even understand the tech to begin with. They may be fast and impressive with the jargon and buzzwords but just saying, "it's the first truly byzantine fault tolerant platform!" doesn't mean they really know what that means or that they have the expertise to really vet the claims.
+This is a dangerous space full of scam artists. Beware social media influencers who hype various projects. Many of them are paid to shill for the project and the majority of the people on social media don't even understand the tech to begin with. They may be fast and impressive with the jargon and buzzwords but just saying "it's the first truly byzantine fault tolerant platform!" doesn't mean they really know what that means or that they have the expertise to really vet the claims.
 
 
 ## The best project doesn't always win
-But let's say that you do find some truly reliable, expert people who are all genuinely excited about a project. It has real tech innovations, the right team behind it, and really should be viewed as light years ahead of its competing platforms.
+But let's say that you do find some truly reliable, expert people who are all genuinely excited about a project. It has real tech innovations, the right team behind it, and really should be viewed as light years ahead of its competing platforms. This is THE clear-cut winner, right?
 
-And then Elon Musk tweets about one of the competitors.
+And then Elon Musk tweets about one of its competitors. Because he was bored. And because he liked their funny mascot.
 
-Oops, sorry, now the social media feeding frenzy puts all its energy there. Your gem project which really should be the winner gets ignored. The garbage project that doesn't deserve the hype gets the hype.
+Oops, sorry, now the social media feeding frenzy puts all its energy there. Your gem project which really should be the winner gets ignored. The garbage project that doesn't deserve the hype leaps ahead.
 
 Maybe in the long run the market corrects itself and the best projects inevitably push their way to the top.
 
@@ -104,8 +104,8 @@ Fine, so maybe just go with what's trendy? Egads. What a disaster. Bribed shille
 
 
 ## It's your call
-There IS a crapton of money to be made by speculating in altcoins. But it takes a combination of immense skill, immense luck, and maybe flat-out insider trading.
+There IS a crap-ton of money to be made by speculating in altcoins. But it takes a combination of immense skill, immense luck, and (let's be honest) flat-out insider trading.
 
-Dive into these shark-infested, piranha-infested, leech-infested waters if you like. Just realize that all the odds are heavily stacked against you. You might be smarter than the average trader, but that won't help you when a secret insiders' group coordinates a dump on your otherwise perfectly played investment.
+Dive into these shark-infested, piranha-infested, leech-infested waters if you like. Just realize that all the odds are heavily stacked against you. You might be smarter than the average trader, but that won't help you when a secret insiders' group coordinates a dump on your otherwise perfectly played investment. These are much thinner markets that are much easier to manipulate. The founding teams themselves are usually sitting on the lion's share of the tokens (google "premine") and can exit scam and crash the price while you're sleeping.
 
-I don't begrudge anyone who succeeds at speculating in this wild west. But I absolutely DO NOT recommend it.
+I don't begrudge anyone who succeeds at speculating in this wild west. But I absolutely DO NOT recommend it. You are the mark. You are the patsy.
