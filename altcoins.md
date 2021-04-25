@@ -8,6 +8,7 @@
       - [But first a present-day analog](#but-first-a-present-day-analog)
       - [And so commoditization goes for crypto, too](#and-so-commoditization-goes-for-crypto-too)
       - [Profitable investment = problematic service](#profitable-investment--problematic-service)
+      - [What about the utility tokens?](#what-about-the-utility-tokens)
     - [Where are the currency/store of value cryptos going?](#where-are-the-currencystore-of-value-cryptos-going)
       - [There is no P/E ratio](#there-is-no-pe-ratio)
       - [So what about competing new digital currencies?](#so-what-about-competing-new-digital-currencies)
