@@ -23,12 +23,14 @@
 ## Understand the basics
 Ethereum, Cardano, Binance Smart Chain, EOS/WAX, and many others are competing to be permissionless, distributed computing platforms. Think Amazon Web Services (AWS) with less centralization.
 
-Bitcoin and some other altcoins--Monero, Litecoin, Dogecoin, etc--are focusing on being a currency and/or a store of value.
+And then running on top of these platforms (or eventually spinning up their own blockchain) are various "utility tokens" that use their token to pay for more niche services within their ecosystem (e.g. FileCoin for paying for decentralized file storage).
 
-These are two enormously different spaces. Different value propositions. Different end games.
+Meanwhile Bitcoin and some other altcoins--Monero, Litecoin, Dogecoin, etc--are focusing on being a currency and/or a store of value.
+
+These are enormously different spaces. Different value propositions. Different end games.
 
 ### Where are the computing platforms going?
-There are immense, fascinating possibilities with these computing platforms. "Smart contracts" can wipe out financial middlemen like escrow agents (if Party A satisfies conditions X,Y,Z transfer the value that Party B deposited to Party A, otherwise refund Party B). Tokenization of assets and ownership will become the norm (why pay TicketMaster's fees to maintain their own proprietary network when concert tickets can just be issued on a public blockchain?).
+There are immense, fascinating possibilities with these computing platforms. "Smart contracts" can wipe out financial middlemen like escrow agents (if Party A satisfies conditions X,Y,Z, transfer the value that Party B deposited to Party A, otherwise refund Party B). Tokenization of assets and ownership will become the norm (why pay TicketMaster's fees to maintain their own proprietary network when concert tickets can just be issued on a public blockchain?).
 
 As more and more use cases arise, these blockchain-based computing platforms will become more and more important and will absolutely displace tons of industries.
 
@@ -52,6 +54,28 @@ This is Ethereum and all the other crypto computing platforms. You pay for compu
 If Ethereum continues its wild success and $ETH keeps growing in value--as all the Ethereum investors of course hope will happen--the cost of computing on Ethereum will keep rising. This is [already happening during moments of high usage](https://www.coindesk.com/high-gas-fees-prevent-ethereum-from-being-ethereum) where the price of an operation far exceeds its value.
 
 
+#### What about the utility tokens?
+These are usually smart contracts running on top of one of the computing platforms that, as part of their smart contract code, create their own utility token that can be issued to users, traded, etc. These utility tokens are generally not their own blockchain; think of them more like applications running on Ethereum, BSC, etc. Some eventually do migrate to their own blockchain but this comes with other risks and tradeoffs.
+
+A typical utility token is used as payment for some service that their side network provides. Need to store files? Render 3D models? Participate in a lending/margin/yield farming market? Even some exchanges (e.g. Binance, Huobi, KuCoin) have their own utility token that you can use to pay reduced trading fees and other bonuses.
+
+The economic assumption is that as these sorts of services gain more widespread adoption and more usage, the value of the side network will grow and, as a result, the utility token will gain in value.
+
+This is an even heavier lift than the computing platforms as it's a bet on a niche service that may or may not find a market fit. At least the computing platforms can keep creating new types of smart contracts and use cases (e.g. NFTs, yield farming, etc; every couple of months there's a new trend). But what if, say, decentralized 3D rendering never takes off? Or what if it's just too early?
+
+And these services would seem to face the same price plateau/commoditization challenges that the computing platforms face. At some level of success the cost of spending the utility token outweighs the value of the service being provided. And there's always incentive for competitors to enter and drive value down to break-even commodity levels.
+
+Utility tokens that exist on an existing computing platform are vulnerable to the same high fee problems that plague $ETH and whichever ones come next. A new, unproven utility token niche service can be priced out of its market simply due to the cost of running on its parent computing platform.
+
+But utility tokens that run their own blockchain run the insanely high risk of writing their own code that might contain bugs which compromise the whole system. A small team or company simply cannot hope to produce the same robust, bulletproof code that drive the largest platforms. Nascent blockchains with low adoption also have so few participants that it would be easy to overwhelm it with malicious miners that rewrite the data to steal funds (aka "51% attack").
+
+They also tend to be very illiquid--meaning that hardly anyone is trading them. That means it doesn't take much effort to manipulate the market. These small projects are rife with pump and dump schemes.
+
+The biggest problem though is that most utility tokens simply do not need to exist. The parent smart contract platforms can already perform whatever service the utility token purports to oversee; why should you have to pay in $XYZ coin for a smart contract that can run on $ETH or $BSC or whatever anyway? The 2017 ICO craze was dominated by nonsense utility tokens that just ran on Ethereum and added no additional value. The vast, vast majority were just money grabs wrapped up in marketing BS.
+
+The rise of bitcoin's Lightning Network further complicates the value proposition of these utility tokens. If I can stream tiny fractional amounts of bitcoin for nearly zero cost, why do I need a separate utility token economy to pay for a service? 
+
+
 ### Where are the currency/store of value cryptos going?
 This is a broader topic that requires diving into what a currency is that is way beyond the scope of this brief and beyond my abilities to adequately articulate.
 
@@ -70,6 +94,7 @@ The deeper the ecosystem, the harder a currency is to unseat.
 A competing digital currency may have certain advantages over bitcoin, newer and more exciting innovations (e.g. private transactions on Monero). But unless that competing currency can chip away at the massive network effects of the incumbent, those exciting bells and whistles won't carry it very far.
 
 And let's not forget that bitcoin itself is still innovating (albeit at a very prudent, seemingly glacial pace).
+
 
 ## How to view altcoin valuations
 Crypto investors love to tout when an altcoin hits a new all-time high. But notice that they almost always denominate it against USD. The real metric is to look at the altcoin-to-bitcoin pairing (e.g. ETH/BTC instead of ETH/USD). This is literally your opportunity cost for putting value in the altcoin instead of bitcoin.
