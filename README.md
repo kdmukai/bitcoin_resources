@@ -159,11 +159,11 @@ To understand the possible significance of bitcoin you have to understand how ma
 
 [Swan Bitcoin](https://www.swanbitcoin.com/banzai): By far the best option for casual investors who want to automate as much as possible. Link your bank account and set an investment schedule (e.g. $10 every week) and it'll automatically do the buys for you. Fees depend on amount purchased per week, ranging from 1.19% to 2.29%. And because Swan is built by true bitcoiners, they encourage you to get your btc off of their platform. You can provide them with a receive address and set up autowithdrawals. They pay the bitcoin network fee on the withdrawal. You then have complete set-it-and-forget-it bitcoin buys that land safely in a wallet that you control!
 
-[Coinbase Pro](https://www.coinbase.com/join/mukai_os): For more serious investors moving larger sums of money. At this level you need to really minimize fees and avoid the price spreads that the other services tack on to the price. Register a [regular Coinbase account](https://www.coinbase.com/join/mukai_os) and then login at [pro.coinbase.com](https://pro.coinbase.com) to access their Pro UI. Trading on Coinbase Pro drops your total fees to just a 0.35% flat fee (one $100 buy carries the same 35¢ fee as twenty $5 buys). Can do instant buys from your linked checking account with no additional fee up to $25k(!). Incoming wire transfers add a $10 fee (but once your bank account is linked, the instant buy feature makes wire transfers unnecessary). 
+[Coinbase Pro](https://www.coinbase.com/join/mukai_os): For more serious investors moving larger sums of money. At this level you need to really minimize fees and avoid the price spreads that the other services tack on to the price. Register a [regular Coinbase account](https://www.coinbase.com/join/mukai_os) and then login at [pro.coinbase.com](https://pro.coinbase.com) to access their Pro UI. Trading on Coinbase Pro drops your total fees to just a 0.5% flat fee (one $100 buy carries the same 50¢ fee that you'd end up paying for twenty $5 buys). Can do instant buys from your linked checking account with no additional fee up to $25k(!). Incoming wire transfers add a $10 fee (but once your bank account is linked, the instant buy feature makes wire transfers unnecessary). 
 
 The UI is overwhelming and chaotic. All you need are market buys/sells. Withdrawals are charged to you but they do bulk transactions so the total fee is much lower than you'd pay for moving some bitcoin yourself.
 
-Paxos / itBit: Lowest possible fees. If you set a "post only" limit order, you get a tiny 0.03% credit (i.e. they pay you a commission rather than you paying them a tx fee). Built to cater to larger institutions so ACH transfers aren't encouraged (limited to $500/wk and have a crappy 1% fee). Incoming wire transfers have no fee and no limits. You pay a share of the bitcoin network/miners' fee to withdraw your btc.
+Paxos / itBit: Lowest possible fees, simpler UI. If you set a "post only" limit order, you only pay 0.25%. If you do an instant "market" order it's 0.35%. Paxos is built to cater to larger institutions so ACH transfers aren't encouraged (limited to $500/wk and have a crappy 1% fee). Incoming wire transfers have no fee and no limits. You pay a share of the bitcoin network/miners' fee to withdraw your btc.
 
 
 ### Bitcoin "wallets"
@@ -177,7 +177,6 @@ Hardware wallets:
 * Ledger
 * Coldcard
 * KeepKey
-* Blockstream Jade
 * various DIY projects: Specter DIY, SeedSigner
 
 
