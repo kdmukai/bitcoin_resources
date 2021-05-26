@@ -44,13 +44,7 @@ Once you're intrigued the next step is to set up a Bitcoin wallet and then exper
 Finally learn a bit about the technical aspects of Bitcoin. Why are everyone's transactions public? What is a private key? What are miners? _This is all the least important part for a noob!_ But too many people think they need to start with it. It's just too arcane and seemingly pointless unless you have the broader context provided above.
 
 
-#### How do I buy/sell/hold bitcoin?
-Hopefully you have a Bitcoin-savvy friend you can reach out to. With that friend or on your own, walk through my [step-by-step beginner's guide](https://github.com/kdmukai/bitcoin_gift_guide) to setting up a wallet on your phone.
-
-Then look at the [Exchanges](#exchanges) section below. You almost definitely want to start with one-off buys via Cash App to learn and then quickly transition to setting up small repeated buys via Swan.
-
-
-#### Why does bitcoin have value?
+#### 1. Why does Bitcoin have value?
 The real answer here starts with the flip side of the question: Bitcoin has value because our current fiat money system does not. The money that you've been used to your whole life is not a solid foundation to build upon; it's really more like quicksand, swallowing your wealth faster than most people can build it. So any deep discussion of Bitcoin's value is really 80% "What is fiat money?" and 20% "How does Bitcoin fix it?"
 
 * [Robert Breedlove interview on Kitco News](https://youtu.be/Y_cViC7PSN0) (28 minutes). Ignore the click-baity title. Breedlove is a really deep thinker on Bitcoin and philosophy in general and does an amazing job explaining the problems of fiat money and why Bitcoin serves as a safe haven.
@@ -58,8 +52,14 @@ The real answer here starts with the flip side of the question: Bitcoin has valu
 * When you're ready to invest a little more time into this endlessly fascinating area, start looking at the [Bitcoin books](#bitcoin-books) section below.
 
 
-#### How does bitcoin work?
-* [3Blue1Brown: But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&list=PLoF4_lt35vblXZz0YUK59X0RnV1V3OvkT&index=1): This is my favorite explainer so far. He does a great job of starting with a simple example of a group of friends who want to be able to pay each other in cash and analyze what solutions might work. But as he broadens out his example beyond just a tight circle of trusted friends, the problems get thornier and thornier. Each step of the way he's layering in solutions that are built into bitcoin to address those exact problems. In this way you don't just get the "how" it works, you really appreciate "why" each element is a crucial part of bitcoin.
+#### 2. How do I buy/sell/hold bitcoin?
+Hopefully you have a Bitcoin-savvy friend you can reach out to. With that friend or on your own, walk through my [step-by-step beginner's guide](https://github.com/kdmukai/bitcoin_gift_guide) to setting up a wallet on your phone.
+
+Then look at the [Exchanges](#exchanges) section below. You almost definitely want to start with one-off buys via Cash App to learn and then quickly transition to setting up small repeated buys via Swan.
+
+
+#### 3. How does Bitcoin work?
+* [3Blue1Brown: But how does Bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&list=PLoF4_lt35vblXZz0YUK59X0RnV1V3OvkT&index=1): This is my favorite explainer so far. He does a great job of starting with a simple example of a group of friends who want to be able to pay each other in cash and analyze what solutions might work. But as he broadens out his example beyond just a tight circle of trusted friends, the problems get thornier and thornier. Each step of the way he's layering in solutions that are built into bitcoin to address those exact problems. In this way you don't just get the "how" it works, you really appreciate "why" each element is a crucial part of bitcoin.
 
     My only minor gripe is that he does get a little deeper into the math than I would have. But it isn't overwhelming. Stick with it. Rewatch it a few times. It's 1000% worth it.
 
