@@ -31,25 +31,29 @@ My starter pack for people new to the bewildering world of bitcoin.
 ### "What is bitcoin?!"
 This is a HUGE topic. It's best to break it down into a few important sub-categories:
 
-* How do I buy/sell/hold bitcoin?
 * Why does bitcoin have value?
+* How do I buy/sell/hold bitcoin?
 * How does bitcoin work?
 
-These are listed in this order for a reason. Learn about setting up a wallet and then experience sending and receiving bitcoin first.
+These are listed in this order for a reason.
 
-Then learn about why people are so excited about it as a type of money that no government or corporation can control. This takes you down the rabbit hole of understanding what money is, more broadly.
+In order to appreciate why Bitcoin matters, you have to understand what money is. Most of us have never had any reason to think deeply about the nature of money but once you start digging in, what you find will surprise you. People who don't understand our current fiat money system cannot appreciate Bitcoin.
 
-Finally learn a bit about the technical aspects of bitcoin. Why are everyone's transactions public? What is a private key? What are miners? _This is all the least important part for a noob!_ But too many people think they need to start with it. It's just too arcane and seemingly pointless unless you have the broader context provided above.
+Once you're intrigued the next step is to set up a Bitcoin wallet and then experience sending and receiving some bitcoin. Use bitcoin in order to start understanding the mechanisms of how it works.
+
+Finally learn a bit about the technical aspects of Bitcoin. Why are everyone's transactions public? What is a private key? What are miners? _This is all the least important part for a noob!_ But too many people think they need to start with it. It's just too arcane and seemingly pointless unless you have the broader context provided above.
 
 
 #### How do I buy/sell/hold bitcoin?
-Hopefully you have a bitcoin-savvy friend you can reach out to. With that friend or on your own, walk through my [step-by-step beginner's guide](https://github.com/kdmukai/bitcoin_gift_guide) to setting up a wallet on your phone.
+Hopefully you have a Bitcoin-savvy friend you can reach out to. With that friend or on your own, walk through my [step-by-step beginner's guide](https://github.com/kdmukai/bitcoin_gift_guide) to setting up a wallet on your phone.
 
 Then look at the [Exchanges](#exchanges) section below. You almost definitely want to start with one-off buys via Cash App to learn and then quickly transition to setting up small repeated buys via Swan.
 
 
 #### Why does bitcoin have value?
-* _Still looking for a killer starter article here._
+The real answer here starts with the flip side of the question: Bitcoin has value because our current fiat money system does not. The money that you've been used to your whole life is not a solid foundation to build upon; it's really more like quicksand, swallowing your wealth faster than most people can build it. So any deep discussion of Bitcoin's value is really 80% "What is fiat money?" and 20% "How does Bitcoin fix it?"
+
+* [Robert Breedlove interview on Kitco News](https://youtu.be/Y_cViC7PSN0) (28 minutes). Ignore the click-baity title. Breedlove is a really deep thinker on Bitcoin and philosophy in general and does an amazing job explaining the problems of fiat money and why Bitcoin serves as a safe haven.
 
 * When you're ready to invest a little more time into this endlessly fascinating area, start looking at the [Bitcoin books](#bitcoin-books) section below.
 
@@ -204,6 +208,8 @@ Pomp's [interview with CEO Bill Barhydt](https://podcasts.apple.com/us/podcast/b
 
 ### Bitcoin "cashback" cards & incentive programs
 [Fold App](https://use.foldapp.com/r/9PH3CUKE): Buy gift cards for popular retailers and earn "sats back". A debit card with much better bonuses (e.g. 5% sats back on Amazon purchases) is slowly being rolled out to the waitlist.
+
+[BlockFi credit card](https://blockfi.com/credit-card-waitlist/?r=6ZA0l): Zero fees, 1.5% btc rewards on all purchases. Bitcoin rewards automatically earn interest at BlockFi's variable monthly rate (5% APY as of May 2021).
 
 
 ### Bleeding Edge
