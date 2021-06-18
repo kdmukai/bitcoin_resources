@@ -83,6 +83,9 @@ This is a series within their unified podcast stream (their "We Study Billionair
 [Swan Signal](https://swansignalpodcast.com/):
 Part of the education and marketing outreach for Swan Bitcoin. They put out excellent education content and have some of the strongest, most trusted bitcoiners on staff. Downside: each ep is just the audio from a live Zoom call so is often plagued by the typical glitches and cross-talk that happens on a livestream. Probably better to watch the [video version on YouTube](https://www.youtube.com/c/SwanSignal).
 
+[Bitcoin Audible - Guy Swann](https://podcasts.apple.com/us/podcast/bitcoin-audible/id1359544516):
+Guy reads the best recent thought pieces on Bitcoin and adds his commentary at the end. My shrinking attention span makes it hard for me to sit and read some of these longer articles, but Guy's audio presentation of them is great and works better for me. There are so many great new articles coming out all the time so just by following Guy's podcast you'll be exposed to an incredible variety of the brightest thinkers in Bitcoin.
+
 [The Pomp Podcast - Anthony Pompliano](https://anthonypompliano.com/podcast/):
 Pomp is a frequent CNBC guest and is insanely articulate. He understands bitcoin and can communicate with people who are deeply entrenched in the traditional financial system. He speaks their language.
 
@@ -91,26 +94,30 @@ Very technical but also focused on Austrian economics. Pick and choose the episo
 
 
 ### YouTube
-[Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ): The absolute best at providing the sweeping, broad vision for how bitcoin can change the world for the better. If you want the big picture, his talks are phenomenal. I support him on Patreon.
-
-But as much as I love him, I don't think he's quite right for beginners; you need a little more foundation before you can understand his inspiring extrapolations. Note that his Q&A vids can be super-technical.
-
 [Swan Signal](https://www.youtube.com/c/SwanSignal): They post their interview segments here and run a 24/7 [BitcoinTV channel](https://www.youtube.com/watch?v=Hv3NTan7_Jc) that's basically a loop of their best content plus live cut-ins as they conduct new interviews. Some of their livestreams aren't much more than Zoom hangouts but their [more focused interviews and discussions](https://www.youtube.com/watch?v=6NlvWollN9M) are phenomenal.
 
 [BlockWorks](https://www.youtube.com/c/BlockWorksGroup): I just recently started watching their streams and they've quickly become a favorite to watch during lunch breaks. They have great guests and solid discussions on the latest news.
 
+[Bitcoin Magazine](https://www.youtube.com/c/BitcoinMagazine/videos): Offers a constant stream of interviews, conference presentations, and tutorials. Bitcoin Magazine takes their job very seriously and are one of the most important driving forces behind Bitcoin education and news.
+
+[Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ): The absolute best at providing the sweeping, broad vision for how bitcoin can change the world for the better. If you want the big picture, his talks are phenomenal. I support him on Patreon.
+
+But as much as I love him, I don't think he's quite right for beginners; you need a little more foundation before you can understand his inspiring extrapolations. Note that his Q&A vids can be super-technical.
+
 
 ### People worth following on twitter
-CEO/CFO/VC/fund manager class:
-* [Michael Saylor](https://twitter.com/michael_saylor)
-* [Pomp](https://twitter.com/APompliano)
-* [Chamath Palihapitiya](https://twitter.com/chamath)
-
 Bitcoin-savvy macro investors/analysts:
 * [Preston Pysh](https://twitter.com/PrestonPysh)
 * [Lyn Alden](https://twitter.com/LynAldenContact)
 * [Dan Held](https://twitter.com/danheld)
+* [Mark Yusko](https://twitter.com/MarkYusko)
+* [Greg Foss](https://twitter.com/FossGregfoss)
 * [Andy Edstrom](https://twitter.com/edstromandrew)
+
+CEO/CFO/VC/fund manager class:
+* [Michael Saylor](https://twitter.com/michael_saylor)
+* [Pomp](https://twitter.com/APompliano)
+* [Chamath Palihapitiya](https://twitter.com/chamath)
 
 Bitcoin-savvy economists:
 * [Nik Bhatia](https://twitter.com/timevalueofbtc)
