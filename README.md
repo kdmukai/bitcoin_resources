@@ -170,19 +170,33 @@ To understand the possible significance of bitcoin you have to understand how ma
 
 
 ### Exchanges
-[Cash App](https://cash.app/app/BCGVHBJ): Makes the most sense for someone that just wants to dabble once or twice with buying bitcoin. Fees are not great but it's fine if you're just playing. You can transfer the btc you buy out of Cash App and into a wallet that you control. This is an important difference between other similar services that don't allow you to withdraw (Robinhood, PayPal). Cash App pays the bitcoin network/miners' fees on your withdrawals. You can also use Cash App as a simple wallet to recieve bitcoin, though in the long run there are much better options.
+[Strike](https://invite.strike.me/RUTXN3) from Jack Mallers: Incredible tech that seamlessly bridges the fiat world--your USD bank account--with bitcoin and the Lightning Network. It's the __easiest and cheapest__ way to buy bitcoin. Fees range from about 0.3% down to less than 0.1%! So a $100 btc buy costs you 30¢. You have two options: 1.) You can buy/sell (but never sell!) in the "₿" tab, but note that this is custodial (i.e. your bitcoin stays under their control) until you withdraw it to a wallet that you control. Or 2.) You can directly convert USD to bitcoin and send it to your own wallet via the "Pay" option. Just paste in a receive address from your wallet or scan a receive QR code.
 
-[Swan Bitcoin](https://www.swanbitcoin.com/banzai): By far the best option for casual investors who want to automate as much as possible. Link your bank account and set an investment schedule (e.g. $10 every week) and it'll automatically do the buys for you. Fees depend on amount purchased per week, ranging from 1.19% to 2.29%. And because Swan is built by true bitcoiners, they encourage you to get your btc off of their platform. You can provide them with a receive address and set up autowithdrawals. They pay the bitcoin network fee on the withdrawal. You then have complete set-it-and-forget-it bitcoin buys that land safely in a wallet that you control!
+When you withdraw from the "₿" tab, Strike pays the Bitcoin miners' fee for you (don't expect that to last). When you directly "Pay" to a bitcoin address, you pay the miners' fee.
 
-[Gemini](https://www.gemini.com/share/v588gelc8): For more serious investors moving larger sums of money. At this level you need to really minimize fees and avoid the price spreads that the other services tack on to the price. Their normal website and app has a high fee structure. But if you change your account to use their "Activetrader" trading UI, you'll pay really minimal fees: currently 0.25% for "maker" orders and 0.35% for "taker" orders. Big bonus: Gemini withdrawals are free(?) up to a monthly limit.
+You can also use Strike to:
+* send other Strike users USD, just like Cash App.
+* pay a Lightning Network invoice by auto-converting your USD to bitcoin on Lightning.
+* receive bitcoin or Lightning transactions that are then auto-converted to USD.
+* (coming soon) convert a portion of your employer's direct deposit payments straight to bitcoin.
+* (coming soon) auto-DCA (dollar cost average) to buy bitcoin on a regular schedule.
+
+Jack Mallers and Strike are changing the world. El Salvador adopted bitcoin as legal tender because of the fiat-to-bitcoin interoperability it provides. Vendors will be able to accept both bitcoin and USD but can autoconvert payments to whichever they prefer (e.g. businesses scared of bitcoin volatility can have all payments show up in their account as USD).
+
+[Swan Bitcoin](https://www.swanbitcoin.com/banzai): Currently the best option for casual investors who want to automate as much as possible. Link your bank account and set an investment schedule (e.g. $10 every week) and it'll automatically do the buys for you. Fees depend on amount purchased per week, ranging from 1.19% to 2.29%. And because Swan is built by true bitcoiners, they encourage you to get your btc off of their platform. You can provide them with a receive address and set up autowithdrawals. They pay the bitcoin network fee on the withdrawal. You then have complete set-it-and-forget-it bitcoin buys that land safely in a wallet that you control!
+
+*note: You can get lower fees if you pre-pay a year's worth of your current auto-buy schedule's fees. But given the rapid development of Strike and their goal of rolling out auto-DCA soon, I don't think it's a good idea to pre-pay for a year of Swan.*
+
+[Gemini](https://www.gemini.com/share/v588gelc8): For more serious investors moving larger sums of money. At this level you need to really minimize fees and avoid the price spreads that the other services tack on to the price. Their normal website and app has a high fee structure. But if you change your account to use their "Activetrader" trading UI, you'll pay really minimal fees: currently 0.25% for "maker" orders and 0.35% for "taker" orders. These fees are higher than Strike, but Gemini allows for moving much larger sums of money (Strike is currently limited to $1000 per week). Big bonus: Gemini withdrawals are free(?) up to a monthly limit.
 
 Be warned: the _Activetrader_ UI is overwhelming and chaotic.
 
-[Coinbase Pro](https://www.coinbase.com/join/mukai_os): Convenient low-fee option if you already have a [regular Coinbase account](https://www.coinbase.com/join/mukai_os). Use it to login at [pro.coinbase.com](https://pro.coinbase.com) to access their Pro UI. Trading on Coinbase Pro drops your total fees to a 0.5% flat fee (one $100 buy carries the same 50¢ fee that you'd end up paying for twenty $5 buys). Can do instant buys from your linked checking account with no additional fee up to $25k(!). Incoming wire transfers add a $10 fee (but once your bank account is linked, the instant buy feature makes wire transfers unnecessary). 
+#### Not recommended
+[Coinbase Pro](https://www.coinbase.com/join/mukai_os): Base fees are terrible, but trading instead on their Coinbase Pro platform drops your total fees to a 0.5% flat fee (one $100 buy carries the same 50¢ fee that you'd end up paying for twenty $5 buys). But compared to Strike or Gemini's fee structure, there's no reason to choose Coinbase Pro.
 
-As with Gemini's pro platform, Coinbase Pro's UI is overwhelming. But all you need are market buys/sells. Withdrawals are charged to you but they do bulk transactions so the total fee is much lower than you'd pay for moving some bitcoin yourself.
+[Cash App](https://cash.app/app/BCGVHBJ): At one point it was my favorite way to onboard brand new Bitcoiners. But Strike has completely wiped out any reason to use Cash App for bitcoin purchases. Use Strike.
 
-Paxos / itBit: Matches Gemini for lowest possible fees, simpler UI. If you set a "post only" limit order, you only pay 0.25%. If you do an instant "market" order it's 0.35%. Paxos is built to cater to larger institutions so ACH transfers aren't encouraged (limited to $500/wk and have a crappy 1% fee). Incoming wire transfers have no fee and no limits. You pay a share of the bitcoin network/miners' fee to withdraw your btc.
+[Paxos / itBit](https://paxos.com): Matches Gemini for low fees, simpler UI. If you set a "post only" limit order, you only pay 0.25%. If you do an instant "market" order it's 0.35%. Only makes sense if you need to set up an account for a business entity, but Gemini also supports business accounts so just use Gemini.
 
 
 ### Bitcoin "wallets"
@@ -196,23 +210,23 @@ Hardware wallets:
 * Ledger
 * Coldcard
 * KeepKey
-* various DIY projects: Specter DIY, SeedSigner
+* various DIY projects: [SeedSigner](https://github.com/SeedSigner/seedsigner), Specter DIY
 
 
 ### Earning interest on bitcoin and USD stablecoins
 Lending platforms offer interest on bitcoin in the 4.5-6.25% range and up to 12.5% on USD stablecoins (a crypto token where 1 USDC, PAX, TUSD, etc is "guaranteed" to be worth $1 regardless of how prices are swinging in the broader crypto markets). You take on some greater risk ("not your keys, not your bitcoin") but if you dig into each platform's risk management approach you might decide that the modest risk is well worth the huge interest payouts.
 
+[Ledn](https://platform.ledn.io/join/f28658694234fd0a38458952642f59d5): Best rate is currently capped at 2.0 btc. As with every platform they offer overcollateralized loans against your deposited btc. Currently have the best USDC interest rates. They primarily (exclusively?) lend their assets to Genesis Capital. Lots of useful discussion [here](https://twitter.com/danheld/status/1334152341881311234?s=20).
+
 [BlockFi](https://blockfi.com/?ref=55312987): $15b under management as of March 2021. Pays interest on btc and USD deposits which are then lent out primarily via overcollateralized loans (to borrow $1000 USD you have to deposit at least $2000 worth of btc), which significantly reduces the risk to the lender. Some undercollateralized lending does happen (~20-50% of their loans) but only to a limited selection of institutional partners. The best bitcoin interest rate maxes out at 1.0 btc (deposits above that earn a greatly reduced rate).
 
 This [podcast with CEO Zac Prince](https://www.theinvestorspodcast.com/bitcoin-fundamentals/btc013-bitcoin-lending-borrowing-w-blockfis-zac-prince-mark-yusko/) is a good starting point. The interviewer, Preston Pysh, asks really savvy, important questions about the risks.
-
-[Ledn](https://platform.ledn.io/join/f28658694234fd0a38458952642f59d5): Best rate is currently capped at 2.0 btc. As with every platform they offer overcollateralized loans against your deposited btc. Currently have the best USDC interest rates. They primarily (exclusively?) lend their assets to Genesis Capital. Lots of useful discussion [here](https://twitter.com/danheld/status/1334152341881311234?s=20).
 
 [Voyager](https://voyager.onelink.me/WNly/referral?af_sub5=KEIECB): $1.1b under management as of Feb 2021. Interest rates similar to BlockFi but no consumer lending; they only lend to major market players (Galaxy Digital, BitGo/Goldman Sachs, Jump Capital). A lot (most?) of their revenue comes from price spreads on their trading platform. Publicly traded in Canada (read: extra level of regulation and scrutiny. Good).
 
 This [interview with CEO Steve Ehrlich](https://www.youtube.com/watch?v=6w_XVpRLI_A&t=3s) is good, but the interviewer doesn't know enough about the bitcoin/crypto ecosystem to ask any hard questions.
 
-[Abra](https://abra.com): Smaller player but like the others moving towards being a completely crypto-backed bank account. Deposit your USD, earn interest on it as a stablecoin, spend it as needed via debit card, convert as much as you like to bitcoin and then earn interest on that.
+[Abra](https://abra.com): Smaller player but like the others moving towards being a completely crypto-backed bank account. Deposit your USD, earn interest on it as a stablecoin, spend it as needed via debit card, convert as much as you like to bitcoin and then earn interest on that. Also provide excellent rates on bitcoin-backed USD loans.
 
 Pomp's [interview with CEO Bill Barhydt](https://podcasts.apple.com/us/podcast/bill-barhydt-founder-ceo-abra-bitcoin-future-asset/id1434060078?i=1000457327798) is excellent.
 
@@ -222,9 +236,6 @@ Pomp's [interview with CEO Bill Barhydt](https://podcasts.apple.com/us/podcast/b
 
 [BlockFi credit card](https://blockfi.com/credit-card-waitlist/?r=6ZA0l): Zero fees, 1.5% btc rewards on all purchases. Bitcoin rewards automatically earn interest at BlockFi's variable monthly rate (5% APY as of May 2021).
 
-
-### Bleeding Edge
-Strike from Jack Mallers: Looks like a simple Cash App clone but is deeply integrated into the bitcoin and Lightning Network under the hood. Like Cash App you link your bank account and can instantly send USD to anyone else with Strike. But you can also pay a Lightning invoice without ever converting your USD. You can also send USD to a bitcoin address (even your own--think of it as an instant buy from your bank account to your bitcoin wallet); Strike converts your USD to bitcoin automatically. But you do pay the bitcoin network/miners' fee for the transaction.
 
 ## What about Ethereum and the other altcoins?
 see: [Discussion of altcoins](altcoins.md)
