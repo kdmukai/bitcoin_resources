@@ -71,6 +71,14 @@ Then look at the [Exchanges](#exchanges) section below. You almost definitely wa
 
 * [SciShow: Bitcoin: How Cryptocurrencies Work](https://www.youtube.com/watch?v=kubGCSj5y3k&list=PLoF4_lt35vblXZz0YUK59X0RnV1V3OvkT&index=2): This one is a distant second. The information is good and is more technical but it goes by WAY TOO FAST! Digest this in 20sec snippets. Pause and rewatch each section as needed. Go off and review other sources then come back to this one later to see if more of it is making sense.
 
+## Bitcoin Critiques
+### Energy/Environmental Concerns
+[This Machine Greens](https://youtu.be/b-7dMVcVWgc) is an excellent, professionally-produced short documentary that explains the real implications of Bitcoin's energy use. Features some of the best experts in Bitcoin. Some of the major concepts:
+* Money has to be hard to create for it to retain value.
+* Bitcoin miners leverage a huge amount of otherwise wasted or stranded electricity.
+* Bitcoin miners can bootstrap investment in new energy infrastructure.
+* Bitcoin's transparency makes it an easy target for energy critics; other industries "waste" a lot more energy so where are those complaints?
+
 
 ## Resource List
 ### Podcasts
