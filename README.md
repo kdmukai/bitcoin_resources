@@ -8,6 +8,8 @@
       - [1. Why does Bitcoin have value?](#1-why-does-bitcoin-have-value)
       - [2. How do I buy/sell/hold bitcoin?](#2-how-do-i-buysellhold-bitcoin)
       - [3. How does Bitcoin work?](#3-how-does-bitcoin-work)
+  - [Bitcoin Critiques](#bitcoin-critiques)
+    - [Energy/Environmental Concerns](#energyenvironmental-concerns)
   - [Resource List](#resource-list)
     - [Podcasts](#podcasts)
     - [YouTube](#youtube)
