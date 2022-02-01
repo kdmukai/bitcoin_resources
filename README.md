@@ -51,7 +51,7 @@ The real answer here starts with the flip side of the question: Bitcoin has valu
 
 * [Robert Breedlove interview on Kitco News](https://youtu.be/Y_cViC7PSN0) (28 minutes). Ignore the click-baity title. Breedlove is a really deep thinker on Bitcoin and philosophy in general and does an amazing job explaining the problems of fiat money and why Bitcoin serves as a safe haven.
 
-* [Lyn Alden: "Analyzing Bitcoin’s Network Effect"](https://www.lynalden.com/bitcoins-network-effect/). This is a long article but well worth it. I'd recommend the excellent [audio version of the article](https://podcasts.apple.com/us/podcast/read-535-analyzing-bitcoins-network-effect-lyn-alden/id1359544516?i=1000525788738) read by Guy Swann which I find easier to consume. Consider this a slightly more advanced read. But don't be scared off; its depth and thoroughness are remarkable and invaluable.
+* [Lyn Alden: "Analyzing Bitcoin’s Network Effect"](https://www.lynalden.com/bitcoins-network-effect/). This is a long article but well worth it. I'd recommend the excellent [audio version of the article](https://podcasts.apple.com/us/podcast/read-535-analyzing-bitcoins-network-effect-lyn-alden/id1359544516?i=1000527197709) read by Guy Swann which I find easier to consume. Consider this a slightly more advanced read. But don't be scared off; its depth and thoroughness are remarkable and invaluable.
 
     Lyn analyzes network effects in general--when are they strong enough to defend against competitors and when do they fail (e.g. myspace)--then builds the case for Bitcoin's massive network effects. The final section is a phenomenal deeper dive laying out the differences between Bitcoin and other altcoins.
 
