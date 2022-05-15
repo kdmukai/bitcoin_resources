@@ -81,6 +81,9 @@ Then look at the [Exchanges](#exchanges) section below. You almost definitely wa
 * Bitcoin miners can bootstrap investment in new energy infrastructure.
 * Bitcoin's transparency makes it an easy target for energy critics; other industries "waste" a lot more energy so where are those complaints?
 
+### Skeptics, Haters
+[Why The Yuppie Elite Dismiss Bitcoin (Croesus)](https://www.citadel21.com/why-the-yuppie-elite-dismiss-bitcoin) argues, in a nutshell: The more deeply embedded you are in the system, the more advantage you gain from it. And therefore the more biased your thinking naturally is to dismiss any challengers and, in fact, fight against them.
+
 
 ## Resource List
 ### Podcasts
