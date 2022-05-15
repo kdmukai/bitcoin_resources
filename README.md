@@ -10,6 +10,7 @@
       - [3. How does Bitcoin work?](#3-how-does-bitcoin-work)
   - [Bitcoin Critiques](#bitcoin-critiques)
     - [Energy/Environmental Concerns](#energyenvironmental-concerns)
+    - [Skeptics, Haters](#skeptics-haters)
   - [Resource List](#resource-list)
     - [Podcasts](#podcasts)
     - [YouTube](#youtube)
