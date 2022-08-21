@@ -56,13 +56,15 @@ The real answer here starts with the flip side of the question: Bitcoin has valu
 
     Lyn analyzes network effects in general--when are they strong enough to defend against competitors and when do they fail (e.g. myspace)--then builds the case for Bitcoin's massive network effects. The final section is a phenomenal deeper dive laying out the differences between Bitcoin and other altcoins.
 
+* [Gigi on the Blue Collar Bitcoin podcast](https://podcasts.apple.com/id/podcast/bcb065-gigi-reinventing-time-itself-part-2-post-piss/id1568863382?i=1000570468833). Gigi gets deeply philosophical about Bitcoin but uncovers some real, fascinating insights without getting too obnoxiously esoteric. The best parts are in the "part 2" portion that I linked here. But there may be some useful background in their ["part 1" conversation](https://podcasts.apple.com/id/podcast/bcb064-gigi-a-100x-improvement-in-money-part-1-pre-piss/id1568863382?i=1000569649220).
+
 * When you're ready to invest a little more time into this endlessly fascinating area, start looking at the [Bitcoin books](#bitcoin-books) section below.
 
 
 #### 2. How do I buy/sell/hold bitcoin?
 Hopefully you have a Bitcoin-savvy friend you can reach out to. With that friend or on your own, walk through my [step-by-step beginner's guide](https://github.com/kdmukai/bitcoin_gift_guide) to setting up a wallet on your phone.
 
-Then look at the [Exchanges](#exchanges) section below. You almost definitely want to start with one-off buys via Cash App to learn and then quickly transition to setting up small repeated buys via Swan.
+Then look at the [Exchanges](#exchanges) section below. You almost definitely want to start with one-off buys via Strike to learn and then quickly transition to setting up small repeated buys either in Strike or Swan.
 
 
 #### 3. How does Bitcoin work?
@@ -73,6 +75,8 @@ Then look at the [Exchanges](#exchanges) section below. You almost definitely wa
 * _Other good intro videos...?_
 
 * [SciShow: Bitcoin: How Cryptocurrencies Work](https://www.youtube.com/watch?v=kubGCSj5y3k&list=PLoF4_lt35vblXZz0YUK59X0RnV1V3OvkT&index=2): This one is a distant second. The information is good and is more technical but it goes by WAY TOO FAST! Digest this in 20sec snippets. Pause and rewatch each section as needed. Go off and review other sources then come back to this one later to see if more of it is making sense.
+
+---
 
 ## Bitcoin Critiques
 ### Energy/Environmental Concerns
@@ -85,6 +89,7 @@ Then look at the [Exchanges](#exchanges) section below. You almost definitely wa
 ### Skeptics, Haters
 [Why The Yuppie Elite Dismiss Bitcoin (Croesus)](https://www.citadel21.com/why-the-yuppie-elite-dismiss-bitcoin) argues, in a nutshell: The more deeply embedded you are in the system, the more advantage you gain from it. And therefore the more biased your thinking naturally is to dismiss any challengers and, in fact, fight against them.
 
+---
 
 ## Resource List
 ### Podcasts
@@ -94,63 +99,54 @@ Then look at the [Exchanges](#exchanges) section below. You almost definitely wa
 [The Investors Podcast - Bitcoin Fundamentals (Preston Pysh)](https://www.theinvestorspodcast.com/bitcoin-fundamentals/):
 This is a series within their unified podcast stream (their "We Study Billionaires" episodes are also a good listen). This is an excellent bridge for people who are already engaged in traditional markets. Be sure to follow [Preston](https://twitter.com/PrestonPysh) as well.
 
+[Blue Collar Bitcoin](https://podcasts.apple.com/id/podcast/blue-collar-bitcoin-podcast/id1568863382):
+"Average Joe" firefighters (who are actually way more savvy about macroeconomics than they pretend to be) have excellent, accessible conversations with top-notch guests.
+
 [Swan Signal](https://swansignalpodcast.com/):
 Part of the education and marketing outreach for Swan Bitcoin. They put out excellent education content and have some of the strongest, most trusted bitcoiners on staff. Downside: each ep is just the audio from a live Zoom call so is often plagued by the typical glitches and cross-talk that happens on a livestream. Probably better to watch the [video version on YouTube](https://www.youtube.com/c/SwanSignal).
 
 [Bitcoin Audible - Guy Swann](https://podcasts.apple.com/us/podcast/bitcoin-audible/id1359544516):
 Guy reads the best recent thought pieces on Bitcoin and adds his commentary at the end. My shrinking attention span makes it hard for me to sit and read some of these longer articles, but Guy's audio presentation of them is great and works better for me. There are so many great new articles coming out all the time so just by following Guy's podcast you'll be exposed to an incredible variety of the brightest thinkers in Bitcoin.
 
-[The Pomp Podcast - Anthony Pompliano](https://anthonypompliano.com/podcast/):
-Pomp is a frequent CNBC guest and is insanely articulate. He understands bitcoin and can communicate with people who are deeply entrenched in the traditional financial system. He speaks their language.
-
 [Stephan Livera Podcast](https://stephanlivera.com/):
 Very technical but also focused on Austrian economics. Pick and choose the episodes that fit your interest/tech level.
 
+---
 
 ### YouTube
 [Swan Signal](https://www.youtube.com/c/SwanSignal): They post their interview segments here and run a 24/7 [BitcoinTV channel](https://www.youtube.com/watch?v=Hv3NTan7_Jc) that's basically a loop of their best content plus live cut-ins as they conduct new interviews. Some of their livestreams aren't much more than Zoom hangouts but their [more focused interviews and discussions](https://www.youtube.com/watch?v=6NlvWollN9M) are phenomenal.
 
-[BlockWorks](https://www.youtube.com/c/BlockWorksGroup): I just recently started watching their streams and they've quickly become a favorite to watch during lunch breaks. They have great guests and solid discussions on the latest news.
-
 [Bitcoin Magazine](https://www.youtube.com/c/BitcoinMagazine/videos): Offers a constant stream of interviews, conference presentations, and tutorials. Bitcoin Magazine takes their job very seriously and are one of the most important driving forces behind Bitcoin education and news.
 
-[Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ): The absolute best at providing the sweeping, broad vision for how bitcoin can change the world for the better. If you want the big picture, his talks are phenomenal. I support him on Patreon.
+[Andreas Antonopoulos](https://www.youtube.com/channel/UCJWCJCWOxBYSi5DhCieLOLQ): The absolute best at providing the sweeping, broad vision for how bitcoin can change the world for the better. If you want the big picture, his talks are phenomenal. But as much as I love him, I don't think he's quite right for beginners; you need a little more foundation before you can understand his inspiring extrapolations. Note that his Q&A vids can be super-technical.
 
-But as much as I love him, I don't think he's quite right for beginners; you need a little more foundation before you can understand his inspiring extrapolations. Note that his Q&A vids can be super-technical.
-
+---
 
 ### People worth following on twitter
 Bitcoin-savvy macro investors/analysts:
 * [Preston Pysh](https://twitter.com/PrestonPysh)
 * [Lyn Alden](https://twitter.com/LynAldenContact)
 * [Dan Held](https://twitter.com/danheld)
-* [Mark Yusko](https://twitter.com/MarkYusko)
 * [Greg Foss](https://twitter.com/FossGregfoss)
 * [Andy Edstrom](https://twitter.com/edstromandrew)
 
 CEO/CFO/VC/fund manager class:
 * [Michael Saylor](https://twitter.com/michael_saylor)
-* [Pomp](https://twitter.com/APompliano)
-* [Chamath Palihapitiya](https://twitter.com/chamath)
 
 Bitcoin-savvy economists:
 * [Nik Bhatia](https://twitter.com/timevalueofbtc)
 
 Rational bitcoin evangelists:
-* [Nic Carter](https://twitter.com/nic__carter)
 * [Robert Breedlove](https://twitter.com/Breedlove22)
 * [Alex Gladstein](https://twitter.com/gladstein)
 
 Price modeling, on-chain analysis:
-* [PlanB](https://twitter.com/100trillionUSD)
 * [Willy Woo](https://twitter.com/woonomic)
 
 Savage bitcoin evangelists:
 * [Rodolfo Novak](https://twitter.com/nvk)
 * [Matt O'Dell](https://twitter.com/matt_odell)
-* [American HODL](https://twitter.com/AMERICANHODL3)
 * [Jameson Lopp](https://twitter.com/lopp)
-* [Ben Kaufman](https://twitter.com/_benkaufman)
 
 Bitcoin artsts:
 * [Lucho Poletti](https://twitter.com/LuchoPoletti)
@@ -160,6 +156,7 @@ Bitcoin artsts:
 If you'd like the contrarians' view
 * [Peter Schiff](https://twitter.com/PeterSchiff)
 
+---
 
 ### Bitcoin books
 [Layered Money, by Nik Bhatia](https://www.amazon.com/Layered-Money-Dollars-Bitcoin-Currencies/dp/1736110527): A quick, efficient read that establishes a powerful "layers" metaphor for money that starts from an epoch of gold coin-based economy on up to the present day and beyond. This is currently my go-to book to refer to people who want to understand why bitcoin has any value.
@@ -182,6 +179,7 @@ To understand the possible significance of bitcoin you have to understand how ma
 
 [Digital Gold, by Nathaniel Popper](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent-ebook/dp/B01D8KFX9Q/): This is a fascinating, fun retelling of the early days of bitcoin with deep dives into all the crazy characters that helped make it happen. Save this book for when you're already deep down the rabbit hole. But once you are a die-hard bitcoiner, this is a must-read.
 
+---
 
 ### Exchanges
 [Strike](https://invite.strike.me/RUTXN3) from Jack Mallers: Incredible tech that seamlessly bridges the fiat world--your USD bank account--with bitcoin and the Lightning Network. It's the __easiest and cheapest__ way to buy bitcoin. Fees range from about 0.3% down to less than 0.1%! So a $100 btc buy costs you 30¢. You have two options: 1.) You can buy/sell (but never sell!) in the "₿" tab, but note that this is custodial (i.e. your bitcoin stays under their control) until you withdraw it to a wallet that you control. Or 2.) You can directly convert USD to bitcoin and send it to your own wallet via the "Pay" option. Just paste in a receive address from your wallet or scan a receive QR code.
@@ -212,6 +210,7 @@ Be warned: the _Activetrader_ UI is overwhelming and chaotic.
 
 [Paxos / itBit](https://paxos.com): Matches Gemini for low fees, simpler UI. If you set a "post only" limit order, you only pay 0.25%. If you do an instant "market" order it's 0.35%. Only makes sense if you need to set up an account for a business entity, but Gemini also supports business accounts so just use Gemini.
 
+---
 
 ### Bitcoin "wallets"
 "Wallets" is a misnomer; they're really more like storehouses for your bitcoin private keys (which you can sort of think of as the password for your bitcoin funds).
@@ -226,30 +225,25 @@ Hardware wallets:
 * KeepKey
 * various DIY projects: [SeedSigner](https://github.com/SeedSigner/seedsigner), Specter DIY
 
+---
 
 ### Earning interest on bitcoin and USD stablecoins
-Lending platforms offer interest on bitcoin in the 4.5-6.25% range and up to 12.5% on USD stablecoins (a crypto token where 1 USDC, PAX, TUSD, etc is "guaranteed" to be worth $1 regardless of how prices are swinging in the broader crypto markets). You take on some greater risk ("not your keys, not your bitcoin") but if you dig into each platform's risk management approach you might decide that the modest risk is well worth the huge interest payouts.
+**Update 2022: Just don't.**
+
+~~Lending platforms offer interest on bitcoin in the 4.5-6.25% range and up to 12.5% on USD stablecoins (a crypto token where 1 USDC, PAX, TUSD, etc is "guaranteed" to be worth $1 regardless of how prices are swinging in the broader crypto markets). You take on some greater risk ("not your keys, not your bitcoin") but if you dig into each platform's risk management approach you might decide that the modest risk is well worth the huge interest payouts.~~
 
 [Ledn](https://platform.ledn.io/join/f28658694234fd0a38458952642f59d5): Best rate is currently capped at 2.0 btc. As with every platform they offer overcollateralized loans against your deposited btc. Currently have the best USDC interest rates. They primarily (exclusively?) lend their assets to Genesis Capital. Lots of useful discussion [here](https://twitter.com/danheld/status/1334152341881311234?s=20).
-
-[BlockFi](https://blockfi.com/?ref=55312987): $15b under management as of March 2021. Pays interest on btc and USD deposits which are then lent out primarily via overcollateralized loans (to borrow $1000 USD you have to deposit at least $2000 worth of btc), which significantly reduces the risk to the lender. Some undercollateralized lending does happen (~20-50% of their loans) but only to a limited selection of institutional partners. The best bitcoin interest rate maxes out at 1.0 btc (deposits above that earn a greatly reduced rate).
-
-This [podcast with CEO Zac Prince](https://www.theinvestorspodcast.com/bitcoin-fundamentals/btc013-bitcoin-lending-borrowing-w-blockfis-zac-prince-mark-yusko/) is a good starting point. The interviewer, Preston Pysh, asks really savvy, important questions about the risks.
-
-[Voyager](https://voyager.onelink.me/WNly/referral?af_sub5=KEIECB): $1.1b under management as of Feb 2021. Interest rates similar to BlockFi but no consumer lending; they only lend to major market players (Galaxy Digital, BitGo/Goldman Sachs, Jump Capital). A lot (most?) of their revenue comes from price spreads on their trading platform. Publicly traded in Canada (read: extra level of regulation and scrutiny. Good).
-
-This [interview with CEO Steve Ehrlich](https://www.youtube.com/watch?v=6w_XVpRLI_A&t=3s) is good, but the interviewer doesn't know enough about the bitcoin/crypto ecosystem to ask any hard questions.
 
 [Abra](https://abra.com): Smaller player but like the others moving towards being a completely crypto-backed bank account. Deposit your USD, earn interest on it as a stablecoin, spend it as needed via debit card, convert as much as you like to bitcoin and then earn interest on that. Also provide excellent rates on bitcoin-backed USD loans.
 
 Pomp's [interview with CEO Bill Barhydt](https://podcasts.apple.com/us/podcast/bill-barhydt-founder-ceo-abra-bitcoin-future-asset/id1434060078?i=1000457327798) is excellent.
 
+---
 
 ### Bitcoin "cashback" cards & incentive programs
-[Fold App](https://use.foldapp.com/r/9PH3CUKE): Buy gift cards for popular retailers and earn "sats back". A debit card with much better bonuses (e.g. 5% sats back on Amazon purchases) is slowly being rolled out to the waitlist.
+[Fold App](https://use.foldapp.com/r/9PH3CUKE): Buy gift cards for popular retailers and earn "sats back". A debit card with much better bonuses (e.g. 5% sats back on Amazon purchases) is now available.
 
-[BlockFi credit card](https://blockfi.com/credit-card-waitlist/?r=6ZA0l): Zero fees, 1.5% btc rewards on all purchases. Bitcoin rewards automatically earn interest at BlockFi's variable monthly rate (5% APY as of May 2021).
-
+---
 
 ## What about Ethereum and the other altcoins?
 see: [Discussion of altcoins](altcoins.md)
